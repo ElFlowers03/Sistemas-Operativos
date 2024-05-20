@@ -1,3 +1,5 @@
+#Autor: Gutierréz Flores Carlos Gael
+
 import threading
 import time
 
